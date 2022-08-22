@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Avi Verma's Programming Portfolio
 
 You can use the [editor on GitHub](https://github.com/morant-basketball/A3-ProgrammingPortfolio2023-AviV/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
